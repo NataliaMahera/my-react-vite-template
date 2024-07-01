@@ -12,7 +12,7 @@ export default {
       },
     },
     colors: {
-      'primary-text-color': '#121417',
+      'text-color': '#121456',
     },
   },
   plugins: [],
