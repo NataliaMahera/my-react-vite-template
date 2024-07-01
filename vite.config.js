@@ -12,5 +12,4 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: '/my-react-vite-template',
 });
